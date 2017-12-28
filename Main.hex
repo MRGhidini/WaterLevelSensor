@@ -1,4 +1,4 @@
-int d = 18; //Enter depth of your tank here in centimeters
+int d = 400; //Enter depth of your tank here in centimeters
 
 int trig = 11; // Attach Trig of ultrasonic sensor to pin 11
 int echo = 10; // Attach Echo of ultrasonic sensor to pin 10
